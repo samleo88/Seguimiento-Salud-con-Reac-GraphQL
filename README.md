@@ -1,0 +1,1 @@
+# Seguimiento-Salud-con-Reac-GraphQL
